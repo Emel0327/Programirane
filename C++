@@ -1,1 +1,7 @@
+double b1,b2,h,lice;
+cin>>b1>>b2>>h;
+lice=((b1+b2)*h)/2;
+cout<<"lice="<<lice;
+
+return 0;
 
